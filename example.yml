@@ -1,0 +1,6 @@
+---
+name: project
+
+applications:
+- name: appp1
+  image: docker.io/ibmcom/hello
